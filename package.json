@@ -1,0 +1,22 @@
+{
+  "name": "canbac2-mastajikbrisktrev",
+  "version": "1.0.21",
+  "description": "mastajikbrisktrev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastajikbrisktrev/canbac2-mastajikbrisktrev.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "mastajikbrisktrev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mastajikbrisktrev/canbac2-mastajikbrisktrev/issues"
+  },
+  "homepage": "https://github.com/mastajikbrisktrev/canbac2-mastajikbrisktrev#readme"
+}
